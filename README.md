@@ -4,7 +4,7 @@
 
 ### Материалы
 [Ссылка на таблицу с данными](https://docs.google.com/spreadsheets/d/1Mfcpu0F07SCs0XTF0nQuijxkYaAqtx_8zJ0DiUGAbRo/edit)  
-
+[Ссылка на код с комментариями](https://github.com/eszakharova/cxg_project/blob/master/lightning_decision_tree.ipynb)
 
 ## Рабочая гипотеза
 
