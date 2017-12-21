@@ -54,6 +54,24 @@ ___________________________________________________________
 + **Tense** - время глагола "ударить". Категориальный - 3 значения:  пе=непрош - настоящее/будущее, пе=прош - прошедшее время, пе=инф - начальная форма (в конструкции типа "может ударить" и т.д.)
 
 ## Анализ: дескриптивная статистика
+#### Распределение признаков в зависимости от целевой переменной
+**Order** 
+![](https://github.com/eszakharova/cxg_project/blob/master/orderhist.png)
+**Arg1_anim**	
+![](https://github.com/eszakharova/cxg_project/blob/master/animhist.png)
+**Verb_fin**
+![](https://github.com/eszakharova/cxg_project/blob/master/verbfinhist.png)
+**Obj**	
+![](https://github.com/eszakharova/cxg_project/blob/master/objhist.png)
+**Has_arg2** 
+![](https://github.com/eszakharova/cxg_project/blob/master/arg2hist.png)
+**Direct_meaning**
+![](https://github.com/eszakharova/cxg_project/blob/master/directmeaninghist.png)
+**Fact** 
+![](https://github.com/eszakharova/cxg_project/blob/master/facthist.png)
+**Tense**
+![](https://github.com/eszakharova/cxg_project/blob/master/tensehist.png)
+
 #### Коэффициенты корреляции признаков с целевой переменнй и друг с другом
 Категориальные признак Order и Tense были преобразованы в бинарные (OneHotEncoding)
 
